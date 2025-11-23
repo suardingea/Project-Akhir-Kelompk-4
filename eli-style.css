@@ -508,19 +508,19 @@ section {
 
 /* GAMBAR SPECIFIC */
 .card-1::before {
-    background-image: url("img/OIP (2).webp");
+    background-image: url("img/image.png    ");
 }
 
 .card-2::before {
-    background-image: url("img/OIP (3).webp");
+    background-image: url("img/image copy.png");
 }
 
 .card-3::before {
-    background-image: url("img/OIP (1).webp");
+    background-image: url("img/image copy 2.png");
 }
 
 .card-4::before {
-    background-image: url("img/OIP (10).webp");
+    background-image: url("img/OIP (1).webp");
 }
 
 /* KONTEN DI DEPAN */
@@ -864,7 +864,7 @@ section {
     content: "";
     position: absolute;
     inset: 0;
-    background: url("img/OIP (5).webp") center/cover no-repeat;
+    background: url("img/download (2).webp") center/cover no-repeat;
     opacity: 0.35;
     z-index: 0;
     animation: materialsBGMove 14s ease-in-out infinite alternate;
@@ -926,7 +926,7 @@ section {
 
 /* === Gambar berbeda tiap card === */
 .material-card:nth-child(1)::before {
-    background-image: url("img/OIP (2).webp");
+    background-image: url("img/OIP (7).webp");
 }
 
 .material-card:nth-child(2)::before {
@@ -1048,27 +1048,27 @@ section {
 
 /* GAMBAR PER CARD */
 .feature-card:nth-child(1)::before {
-    background-image: url("img/image copy.png");
+    background-image: url("img/OIP (9).webp");
 }
 
 .feature-card:nth-child(2)::before {
-    background-image: url("OIP (7).webp");
+    background-image: url("img/download (5).webp");
 }
 
 .feature-card:nth-child(3)::before {
-    background-image: url("download (7).webp");
+    background-image: url("img/download (7).webp");
 }
 
 .feature-card:nth-child(4)::before {
-    background-image: url("download (8).webp");
+    background-image: url("img/download (8).webp");
 }
 
 .feature-card:nth-child(5)::before {
-    background-image: url("OIP (10).webp");
+    background-image: url("img/OIP (3).webp");
 }
 
 .feature-card:nth-child(6)::before {
-    background-image: url("download (9).webp");
+    background-image: url("img/download (3).webp");
 }
 
 /* Konten tetap di depan */
@@ -1088,7 +1088,7 @@ section {
     padding: 80px 20px;
     overflow: hidden;
     color: white;
-    background: url("WhatsApp Image 2025-11-23 at 21.12.36_2447f782.jpg") center/cover no-repeat;
+    background: url("img/WhatsApp Image 2025-11-23 at 21.12.36_2447f782.jpg") center/cover no-repeat;
 }
 
 /* GRID TEAM */
@@ -1134,15 +1134,15 @@ section {
 
 /* Assign avatar berbeda per member */
 .team-card:nth-child(1) .team-avatar {
-    background-image: url("WhatsApp Image 2025-11-23 at 18.12.24_93fdd280.jpg");
+    background-image: url("img/WhatsApp Image 2025-11-23 at 18.12.24_93fdd280.jpg");
 }
 
 .team-card:nth-child(2) .team-avatar {
-    background-image: url("WhatsApp Image 2025-11-23 at 17.40.54_ca61a945.jpg");
+    background-image: url("img/WhatsApp Image 2025-11-23 at 17.40.54_ca61a945.jpg");
 }
 
 .team-card:nth-child(3) .team-avatar {
-    background-image: url("WhatsApp Image 2025-11-23 at 17.40.54_2a20697f.jpg");
+    background-image: url("img/WhatsApp Image 2025-11-23 at 17.40.54_2a20697f.jpg");
 }
 
 /* Hover avatar animasi */
@@ -1215,7 +1215,7 @@ section {
     content: "";
     position: absolute;
     inset: 0;
-    background: url("download (10).webp") center/cover no-repeat;
+    background: url("img/download (10).webp") center/cover no-repeat;
     z-index: 0;
 
     /* --- Bikin gambar jauh lebih terang --- */
